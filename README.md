@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @migazaaaa
-- 👀 I’m interested in playing games and cooking
-- 🌱 I’m currently learning how to play the drums
-- 💞️ I’m looking to collaborate on web and mobile development
+- 👋 Hi, I’m @migazaaaa and I like to code.
 
 <!---
 migazabragaza/migazabragaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
